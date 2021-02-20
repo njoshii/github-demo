@@ -1,2 +1,2 @@
-# github-demo
-simple dem
+# Learning GIT
+CREATING Repo
